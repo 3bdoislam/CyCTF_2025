@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-This repository contains comprehensive writeups, Proof of Concepts (PoCs), and fully functional exploit projects for the **Mobile** and **Telecom** security challenges from **CyCTF 2025**.
+This repository contains comprehensive writeups, Proof of Concepts (PoCs), and fully functional exploit projects for the **Mobile** and **Telecom security** challenges from **CyCTF 2025**.
 
 The goal is to provide organized, reproducible solutions using industry-standard tools.
 
@@ -15,11 +15,34 @@ The goal is to provide organized, reproducible solutions using industry-standard
 ```text
 CyCTF_2025/
 ├── Mobile/                 # Android/iOS Challenges & Exploits
-│   ├── [Challenge Name]/   
-│   │   ├── Original/       # Original APK/Files
-│   │   ├── Project/        # Android Studio Project
-│   │   └── PoC/            # Scripts & Demo
+│   ├── [Grand Thef Mobile]/   
+│   │   ├── APK/         # Original APK 
+│   │
+│   ├── [Vault Raider]/
+│   │   ├── APK/         # Original APK
+│   │
+│   ├── [Hooky]/
+│   │   ├── ipa/         # Original ipa
+│   │
+│   ├── [Secure View]/
+│   │   ├── APK/         # Original APK/Files
+│   │   └── PoC/         # Android Studio Project
+│   │
+│   ├── [Execution]/
+│   │   ├── APK/         # Original APK/Files
+│   │   └── PoC/         # Android Studio Project
+│   │
+│   ├── [Sparrow]/
+│   │   ├── APK/         # Original APK/Files
+│   │   └── PoC/         # Android Studio Project
+│   │
+│   └── [revME]/
+│       └── zip/         # Original ZIP/Files
 │
-└── Telecom/                # 5G/LTE/VoIP Challenges
-    └── [Challenge Name]/   # PCAP analysis & Reports
-🏆 Challenge List📱 Mobile SecurityChallenge NameWriteup (Medium)PoC / Exploit ProjectDogeRead ArticleView SolutionI Hate TasksRead ArticleView SolutionExample ChallengeRead ArticleView Solution📡 Telecom SecurityChallenge NameWriteup (Medium)Signal InterceptRead ArticlePacket KingRead ArticleVoIP LeakRead Article🛠️ Tools & Technologies UsedMobile: Android Studio, Frida, Jadx-GUI, Objection.Telecom: Wireshark, Scapy, Osmocom.⚠️ DisclaimerAll content in this repository is for educational purposes only.Licensed under the MIT License.
+│
+└── Telecom Security/                # 5G/LTE/VoIP Challenges
+    ├── [Roamer Hunter]/   # PCAP analysis & Reports
+    │
+    ├── [MME Impostor]/    # PCAP analysis & Reports
+    │
+    └── [Integrity Lost]/   # PCAP analysis & Reports
