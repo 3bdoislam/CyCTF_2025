@@ -40,9 +40,58 @@ CyCTF_2025/
 │       └── zip/         # Original ZIP/Files
 │
 │
-└── Telecom Security/                # 5G/LTE/VoIP Challenges
+└── Telecom Security/      # 5G/LTE/VoIP Challenges
     ├── [Roamer Hunter]/   # PCAP analysis & Reports
     │
     ├── [MME Impostor]/    # PCAP analysis & Reports
     │
-    └── [Integrity Lost]/   # PCAP analysis & Reports
+    └── [Integrity Lost]/  # PCAP analysis & Reports
+
+## 🏆 Challenge List
+
+### 📱 Mobile Security
+
+| Challenge Name       | Writeup (Medium) | PoC / Files |
+|---------------------|------------------|-------------|
+| Grand Thef Mobile   | Read Article     | View Files  |
+| Vault Raider        | Read Article     | View Files  |
+| Hooky (iOS)         | Read Article     | View Files  |
+| Secure View         | Read Article     | View Project |
+| Execution           | Read Article     | View Project |
+| Sparrow             | Read Article     | View Project |
+| revME (iOS)         | Read Article     | View Files  |
+
+---
+
+### 📡 Telecom Security
+
+| Challenge Name   | Writeup (Medium) |
+|------------------|------------------|
+| Roamer Hunter    | Read Article     |
+| MME Impostor     | Read Article     |
+| Integrity Lost   | Read Article     |
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+### **Mobile Security**
+- Android Studio  
+- Frida  
+- Objection  
+- Jadx-GUI  
+
+### **Telecom Security**
+- Wireshark  
+- Scapy  
+- Osmocom Tools  
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is intended **strictly for educational and research purposes**.  
+All exploits and analyses target CTF-based simulated environments only and **must not** be used for unauthorized real-world exploitation.
+
+Licensed under the **MIT License**.
+
