@@ -22,3 +22,4 @@ CyCTF_2025/
 │
 └── Telecom/                # 5G/LTE/VoIP Challenges
     └── [Challenge Name]/   # PCAP analysis & Reports
+🏆 Challenge List📱 Mobile SecurityChallenge NameWriteup (Medium)PoC / Exploit ProjectDogeRead ArticleView SolutionI Hate TasksRead ArticleView SolutionExample ChallengeRead ArticleView Solution📡 Telecom SecurityChallenge NameWriteup (Medium)Signal InterceptRead ArticlePacket KingRead ArticleVoIP LeakRead Article🛠️ Tools & Technologies UsedMobile: Android Studio, Frida, Jadx-GUI, Objection.Telecom: Wireshark, Scapy, Osmocom.⚠️ DisclaimerAll content in this repository is for educational purposes only.Licensed under the MIT License.
