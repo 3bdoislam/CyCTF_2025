@@ -73,21 +73,6 @@ CyCTF_2025/
 
 ---
 
-## 🛠️ Tools & Technologies Used
-
-### **Mobile Security**
-- Android Studio  
-- Frida  
-- Objection  
-- Jadx-GUI  
-
-### **Telecom Security**
-- Wireshark  
-- Scapy  
-- Osmocom Tools  
-
----
-
 ## ⚠️ Disclaimer
 
 This repository is intended **strictly for educational and research purposes**.  
