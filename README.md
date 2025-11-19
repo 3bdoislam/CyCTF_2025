@@ -53,13 +53,13 @@ CyCTF_2025/
 
 | Challenge Name       | Writeup (Medium) | PoC / Files |
 |---------------------|------------------|-------------|
-| Grand Thef Mobile   | Read Article     | View Files  |
-| Vault Raider        | Read Article     | View Files  |
-| Hooky (iOS)         | Read Article     | View Files  |
-| Secure View         | Read Article     | View Project |
-| Execution           | Read Article     | View Project |
-| Sparrow             | Read Article     | View Project |
-| revME (iOS)         | Read Article     | View Files  |
+| Grand Thef Mobile   | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Grand%20Thef%20Mobile/) |
+| Vault Raider        | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Vault%20Raider/) |
+| Hooky (iOS)         | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Hooky/) |
+| Secure View         | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Secure%20View/PoC/) |
+| Execution           | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Execution/PoC/) |
+| Sparrow             | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Sparrow/PoC/) |
+| revME               | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/revME/) |
 
 ---
 
@@ -67,16 +67,14 @@ CyCTF_2025/
 
 | Challenge Name   | Writeup (Medium) |
 |------------------|------------------|
-| Roamer Hunter    | Read Article     |
-| MME Impostor     | Read Article     |
-| Integrity Lost   | Read Article     |
+| Roamer Hunter    | [Read Article](https://medium.com/your-article-link) |
+| MME Impostor     | [Read Article](https://medium.com/your-article-link) |
+| Integrity Lost   | [Read Article](https://medium.com/your-article-link) |
 
 ---
-
 ## ⚠️ Disclaimer
 
 This repository is intended **strictly for educational and research purposes**.  
 All exploits and analyses target CTF-based simulated environments only and **must not** be used for unauthorized real-world exploitation.
 
 Licensed under the **MIT License**.
-
