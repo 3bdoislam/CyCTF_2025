@@ -12,8 +12,6 @@ local.properties
 captures/
 .externalNativeBuild/
 .cxx/
-*.aab
-*.apk
 output-metadata.json
 
 # IntelliJ
@@ -32,3 +30,13 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# --- APK RULES (THE MAGIC PART) ---
+# 1. Ignore ALL APKs/AABs by default (to block build output)
+*.apk
+*.aab
+
+# 2. BUT allow APKs only if they are inside a folder named "APK"
+!**/APK/*.apk
+!**/ipa/*.ipa
+!**/zip/*.zip
