@@ -53,13 +53,13 @@ CyCTF_2025/
 
 | Challenge Name       | Writeup (Medium) | PoC / Files |
 |---------------------|------------------|-------------|
-| Grand Thef Mobile   | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Grand%20Thef%20Mobile/) |
-| Vault Raider        | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Vault%20Raider/) |
-| Hooky (iOS)         | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Hooky/) |
-| Secure View         | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Secure%20View/PoC/) |
-| Execution           | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Execution/PoC/) |
-| Sparrow             | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Sparrow/PoC/) |
-| revME               | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/revME/) |
+| Grand Thef Mobile   | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Grand%20Thef%20Mobile/APK) |
+| Vault Raider        | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Vault%20Raider/APK) |
+| Hooky (iOS)         | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Hooky/ipa) |
+| Secure View         | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Secure%20View) |
+| Execution           | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Execution) |
+| Sparrow             | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Sparrow) |
+| revME               | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/revME/zip) |
 
 ---
 
