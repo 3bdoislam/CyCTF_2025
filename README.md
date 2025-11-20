@@ -40,7 +40,7 @@ CyCTF_2025/
 │       └── zip/         # Original ZIP/Files
 │
 │
-└── Telecom Security/      # 5G/LTE/VoIP Challenges
+└── Telecom Security/      # Telecom Signaling Forensics Challenges (S1AP, NAS, MAP)
     ├── [Roamer Hunter]/   # PCAP analysis & Reports
     │
     ├── [MME Impostor]/    # PCAP analysis & Reports
