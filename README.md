@@ -53,13 +53,13 @@ CyCTF_2025/
 
 | Challenge Name       | Writeup (Medium) | PoC / Files |
 |---------------------|------------------|-------------|
-| Grand Thef Mobile   | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Grand%20Thef%20Mobile/APK) |
-| Vault Raider        | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Vault%20Raider/APK) |
-| Hooky (iOS)         | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/Hooky/ipa) |
-| Secure View         | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Secure%20View) |
-| Execution           | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Execution) |
-| Sparrow             | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Sparrow) |
-| revME (iOS)         | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/revME/zip) |
+| Grand Thef Mobile   | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#7ecb) | [View Files](./Mobile/Grand%20Thef%20Mobile/APK) |
+| Vault Raider        | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#61fc) | [View Files](./Mobile/Vault%20Raider/APK) |
+| Hooky (iOS)         | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#264c) | [View Files](./Mobile/Hooky/ipa) |
+| Secure View         | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#1ef5) | [View Project](./Mobile/Secure%20View) |
+| Execution           | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#5b82) | [View Project](./Mobile/Execution) |
+| Sparrow             | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#c4ae) | [View Project](./Mobile/Sparrow) |
+| revME (iOS)         | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#c306) | [View Files](./Mobile/revME/zip) |
 
 ---
 
@@ -67,9 +67,9 @@ CyCTF_2025/
 
 | Challenge Name       | Writeup (Medium) | Files |
 |---------------------|------------------|-------------|
-| Roamer Hunter    | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/Roamer%20Hunter) |
-| MME Impostor     | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/MME%20Impostor) |
-| Integrity Lost   | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/Integrity%20Lost) |
+| Roamer Hunter    | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#31a4) | [View Files](./Telecom%20Security/Roamer%20Hunter) |
+| MME Impostor     | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#0039) | [View Files](./Telecom%20Security/MME%20Impostor) |
+| Integrity Lost   | [Read Article](https://medium.com/@z0km/cyctf-2025-all-telecom-security-mobile-challenges-writeups-quals-finals-de05c84685fc#ad87) | [View Files](./Telecom%20Security/Integrity%20Lost) |
 
 ---
 ## ⚠️ Disclaimer
