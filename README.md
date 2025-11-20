@@ -67,9 +67,9 @@ CyCTF_2025/
 
 | Challenge Name   | Writeup (Medium) |
 |------------------|------------------|
-| Roamer Hunter    | [Read Article](https://medium.com/your-article-link) |
-| MME Impostor     | [Read Article](https://medium.com/your-article-link) |
-| Integrity Lost   | [Read Article](https://medium.com/your-article-link) |
+| Roamer Hunter    | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/Roamer%20Hunter) |
+| MME Impostor     | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/MME%20Impostor) |
+| Integrity Lost   | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/Integrity%20Lost) |
 
 ---
 ## ⚠️ Disclaimer
