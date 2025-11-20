@@ -59,7 +59,7 @@ CyCTF_2025/
 | Secure View         | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Secure%20View) |
 | Execution           | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Execution) |
 | Sparrow             | [Read Article](https://medium.com/your-article-link) | [View Project](./Mobile/Sparrow) |
-| revME               | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/revME/zip) |
+| revME (iOS)         | [Read Article](https://medium.com/your-article-link) | [View Files](./Mobile/revME/zip) |
 
 ---
 
