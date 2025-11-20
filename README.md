@@ -65,8 +65,8 @@ CyCTF_2025/
 
 ### 📡 Telecom Security
 
-| Challenge Name   | Writeup (Medium) |
-|------------------|------------------|
+| Challenge Name       | Writeup (Medium) | Files |
+|---------------------|------------------|-------------|
 | Roamer Hunter    | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/Roamer%20Hunter) |
 | MME Impostor     | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/MME%20Impostor) |
 | Integrity Lost   | [Read Article](https://medium.com/your-article-link) | [View Files](./Telecom%20Security/Integrity%20Lost) |
